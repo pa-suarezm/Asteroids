@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">38378408627</string>
+  <string name="google_storage_bucket" translatable="false">pulguita-games-asteroids.appspot.com</string>
+  <string name="project_id" translatable="false">pulguita-games-asteroids</string>
+  <string name="google_api_key" translatable="false">AIzaSyBbpCi_BJSUwSglcQHsms9BMGKo_m6wXXw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBbpCi_BJSUwSglcQHsms9BMGKo_m6wXXw</string>
+  <string name="google_app_id" translatable="false">1:38378408627:android:96fc650a18e98d4ccb3ec6</string>
+  <string name="default_web_client_id" translatable="false">38378408627-o6oo2d01qbquaht409jevtmidl8doao4.apps.googleusercontent.com</string>
+</resources>

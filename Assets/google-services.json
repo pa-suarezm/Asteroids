@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38378408627",
+    "project_id": "pulguita-games-asteroids",
+    "storage_bucket": "pulguita-games-asteroids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38378408627:android:96fc650a18e98d4ccb3ec6",
+        "android_client_info": {
+          "package_name": "com.pulguita_games.asteroids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38378408627-o6oo2d01qbquaht409jevtmidl8doao4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbpCi_BJSUwSglcQHsms9BMGKo_m6wXXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38378408627-o6oo2d01qbquaht409jevtmidl8doao4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
