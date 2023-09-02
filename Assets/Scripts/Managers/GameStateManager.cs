@@ -23,7 +23,6 @@ public class GameStateManager : MonoBehaviour
         {
             instance = this;
             DontDestroyOnLoad(gameObject); //Permite que este objeto exista entre escenas
-            Firebase.FirebaseApp.Create();
         }
         else if (instance != this)
         {
